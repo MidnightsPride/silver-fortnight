@@ -3,5 +3,8 @@
 # Useage:
 Answer the prompted questions to confirm whether or not to include lowercase, uppercase, numbers and symbols. Then once the prompts have been anwered, get a uniquely generated password.
 
-#Credits:
+# Credits:
 Starter code from https://github.com/coding-boot-camp/friendly-parakeet
+
+# Website:
+https://midnightspride.github.io/silver-fortnight/
